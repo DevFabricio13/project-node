@@ -1,0 +1,10 @@
+--> Dependencias que foram instaladas: 
+
+- Express -- "Meu framework web";
+- Express-Handlebars -- "Meu template engine, ajudará a imprimir HTML na aplicação";
+- Sequelize 
+- sqlite3
+- Body-parser -- "Ajudará a pegar a requisição, o body e o corpo do desenvolvimento";
+- Nodemon
+- Sqlite
+// 
